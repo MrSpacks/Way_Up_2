@@ -1,0 +1,22 @@
+.block{
+    width: 100px;
+    height: 100px;
+    color: aliceblue;
+    background-color: blue;
+}
+h1{
+    color: red;
+}
+h2{
+    color: white;
+    background-color: green;
+}
+span{
+    color: red;
+}
+.mrg{
+    padding: 50px;
+}
+li{
+    border: solid 1px;
+}
